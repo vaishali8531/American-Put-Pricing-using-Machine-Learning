@@ -1,4 +1,4 @@
-#  DeepQuant Summer of Code – Quantitative Finance & Option Pricing
+#  DeepQuant Summer of Code – American-Put-Pricing-using-Machine-Learning
 
 This repository contains my work completed during the **DeepQuant Summer of Code (SoC)**, where I explored quantitative finance, option pricing models, and machine learning techniques for pricing financial derivatives.
 
